@@ -1,5 +1,5 @@
-<h1 align="left">Hi Threre👋, </h1>
-<h3 align="left">Magento developer</h3>
+<h3 align="left">Hi Threre👋, </h3>
+<h6 align="left">Magento developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magento1211&label=Profile%20views&color=0e75b6&style=flat" alt="magento1211" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Magento developer**
 
-<h3 align="left">Contact:</h3>
+<h5 align="left">Contact:</h5>
 
 - 📫 mail: hoffmanotto16@gmail.com
 - 
